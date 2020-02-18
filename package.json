@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pradosh987/prolog-99-problems-in-typescript#readme",
   "devDependencies": {
+    "prettier": "1.19.1",
     "typescript": "^3.7.5"
   }
 }
