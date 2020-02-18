@@ -1,0 +1,22 @@
+{
+  "name": "prolog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradosh987/prolog-99-problems-in-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradosh987/prolog-99-problems-in-typescript/issues"
+  },
+  "homepage": "https://github.com/pradosh987/prolog-99-problems-in-typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
